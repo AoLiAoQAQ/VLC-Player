@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/bg.jpg</file>
+        <file>img/picture.png</file>
+        <file>img/mirror.png</file>
+        <file>img/stop.png</file>
+        <file>img/turn-left.png</file>
+        <file>img/turn-right.png</file>
+        <file>img/video.png</file>
+        <file>img/cuizhi.png</file>
+        <file>QssStyle/MacOS.qss</file>
+        <file>QssImg/go-down-symbolic.symbolic.png</file>
+        <file>QssImg/go-next-symbolic.symbolic.png</file>
+        <file>QssImg/go-previous-symbolic.symbolic.png</file>
+        <file>QssImg/go-up-symbolic.symbolic.png</file>
+        <file>QssImg/object-select-symbolic.symbolic.png</file>
+        <file>img/play.png</file>
+        <file>img/pause.png</file>
+        <file>img/file.png</file>
+        <file>img/GGboned.jpg</file>
+    </qresource>
+</RCC>
